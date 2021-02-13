@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+}
+.container{
+    width: 40%;
+    height: 70vh;
+    margin: 50px auto;
+    background-color: white;
+    border: 2px solid rgb(185, 168, 168);
+    border-radius: 10px;
+}
+header{
+    height: 35%;
+    display: flex;
+}
+img{
+    width: 65%;
+    height: 80%;
+    border-radius: 180%;
+    padding: 1rem;
+}
+.logo{
+    width: 40%;
+}
+
+section{
+    height: 65%;
+    font-size: large;
+    padding: 2rem;
+}
+.btn{
+    text-align: center;
+}
+button{
+    padding: 6px 1.5rem;
+    margin-top: 50px;
+    background-color: rgba(43, 43, 233, 0.842);
+    color: cornsilk;
+    font-size: larger;
+    border-radius: 10px;
+}
+
